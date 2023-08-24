@@ -32,4 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Deshaninayanamini&" alt="Deshaninayanamini" /></p>
 
-[![holopinkrish's Holopin board](https://holopin.me/holopinkrish)](https://holopin.io/@holopinkrish)
+[![An image of @kldnayanamini's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kldnayanamini)](https://holopin.io/@kldnayanamini)
+
