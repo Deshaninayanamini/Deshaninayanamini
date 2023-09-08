@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Deshani Liyanage</h1>
 
 <h3 align="center">An Undergraduate at <a href="https://www.nsbm.ac.lk/">NSBM Green University, SriLanka</a></h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
